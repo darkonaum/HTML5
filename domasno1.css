@@ -1,0 +1,36 @@
+section.slika{
+	width: 702px;
+	height: 554px;
+}
+
+h1.naslov{
+	font-size: 22px;
+	color: #424b54;
+	display: block;
+	font-family: 'Open Sans' , sans-serif;
+	margin: 40px 90px 41px 43px ;
+}
+
+div.tekst{
+	font-size: 15px;
+	color: #aab2bd;
+	margin: 42px 56px 40px 43px;
+}
+
+div.end{
+	font-size: 15px;
+	color: #aab2bd;
+	margin: 0px 363px 46px 43px;
+}
+
+div.more{
+	float: left;
+	margin: 0px 37px 39px 590px;
+	border: 1px solid #a0d468;
+	background-color: #a0d468;
+	width: 70px;
+	height: 30px;
+	text-align: center;
+	color: white;
+
+}
