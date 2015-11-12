@@ -1,0 +1,102 @@
+section.element{
+	width: 305px;
+	height: 322px;
+	background-color: #bebfba;
+	border-radius: 10px;
+}
+header.digital{
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	position: relative;
+	top: 80px;
+}
+div.podnaslov{
+	color: #e0e0de;
+	text-align: center;
+	position: relative;
+	top: 83px;
+}
+button.sign{
+	border-radius: 8px;
+	border-color: #c7df5e;
+	background-color: #c7df5e;
+	color: white;
+	position: relative;
+	top: 130px;
+	left: 80px;
+	width: 142px;
+	height: 40px;
+}
+/*nov section*/
+section.music{
+	width: 380px;
+	height: 431px;
+	/*border:black solid;*/
+	position: relative;
+	left: 310px;
+	bottom: 310px;
+}
+div.tekst{
+	font-family: sans-serif;
+	text-align: center;
+	position: relative;
+	top: 25px;
+}
+
+/*start of input*/
+
+section.inputoj{
+	width: 1196px;
+	height: 172px; 
+	/*border: black solid;*/
+	position: relative;
+	bottom: 340px;
+}
+button.fields{
+	width: 558px;
+	height: 58px;
+	color: #bedede;
+	border-color: #bedede;
+	background-color: white;
+	border-width: 4px;
+	font-weight: bold;
+}
+button.registration{
+	width: 558px;
+	height: 58px;
+	color: #37618f;
+	background-color: white;
+	border-color: #37618f;
+	position: relative;
+	top: 75px;
+	right: 563px;
+	border-width: 4px;
+	font-weight: bold;
+}
+button.wrong{
+	width: 558px;
+	height: 58px;
+	background-color: white;
+	font-weight: bold;
+	border-color: #cf1939;
+	color: #cf1939;
+	position: relative;
+	left: 600px;
+	bottom: 58px;
+	border-width: 4px;
+	font-weight: bold;
+}
+button.something{
+	width: 558px;
+	height: 58px;
+	background-color: white;
+	font-weight: bold;
+	border-color: #343f6a;
+	color: #343f6a;
+	border-width: 4px;
+	position: relative;
+	left: 38px;
+	top: 17px;
+}
