@@ -1,0 +1,162 @@
+div.plavo{
+	width: 1410px;
+	height: 10px;
+	background-color: #4599da;
+	position: relative;
+	right:50px;
+	bottom: 10px;
+}
+header.naslov{
+	font-size: 40px;
+	color: #005696;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	position: relative;
+	left: 180px;
+	top: 10px;
+}
+ul.pece{
+	list-style-type: none;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	border-color: #dadada;
+	background-color: #dadada;
+	position: relative;
+	left: 643px;
+	bottom: 10px;
+	text-decoration: none;
+}
+li.a{
+	float: left;
+	margin-right: 0px;
+	border-color: #3a90cc;
+	background-color: #3a90cc;
+	height: 30px;
+	width: 70px;
+	text-align: center;
+}
+li.b{
+	float: left;
+	margin-right: 0px;
+	border-color: #dadada;
+	background-color: #dadada;
+	height: 30px;
+	width: 84px;
+	text-align: center;
+}
+li.c{
+	float: left;
+	margin-right: 0px;
+	border-color: #dadada;
+	background-color: #dadada;
+	height: 30px;
+	width: 84px;
+	text-align: center;
+}
+li.d{
+	float: left;
+	margin-right: 0px;
+	border-color: #dadada;
+	background-color: #dadada;
+	height: 30px;
+	width: 50px;
+	text-align: center;	
+}
+li.e{
+	float: left;
+	margin-right: 10px;
+	border-color: #dadada;
+	background-color: #dadada;
+	height: 30px;
+	width: 110px;
+	text-align: center;
+}
+img{
+	position: relative;
+	right: 216px;
+	top: 30px;
+}
+section.slika{
+	width: 1410px;
+	height: 300px;
+	background-color: #84c2f3;
+	position: relative;
+	top: 24px;
+	right: 50px;
+}
+div.template{
+	font-size: 30px;
+	color: #71bae5;
+	position: relative;
+	left: 180px;
+	top: 40px;
+	font-family: 'Roboto', sans-serif;
+	/*font-weight: bold;*/
+}
+div.text{
+	color: #898580;
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+	left: 180px;
+	top: 60px;
+}
+div.tekst{
+	color: #898580;
+	font-family: 'Roboto' sans-serif;
+	position: relative;
+	left: 180px;
+	top: 100px;
+}
+section.drop{
+	width: 1410px;
+	height: 300px;
+	background-color: #4095cc;
+	position: relative;
+	right: 50px;
+	top: 200px;
+}
+div.about{
+	font-size: 30px;
+	color: white;
+	font-family: "Roboto" sans-serif;
+	position: relative;
+	left: 230px;
+	top: 20px;
+}
+div.lorem{
+	color: white;
+	font-family: 'Roboto' sans-serif;
+	position: relative;
+	left: 230px;
+	top: 25px;
+}
+div.ipsum{
+	font-size: 30px;
+	color: white;
+	font-family: "Roboto" sans-serif;
+	position: relative;
+	left: 660px;
+	bottom: 113px;
+}
+div.ipsu{
+	color: white;
+	font-family: 'Roboto' sans-serif;
+	position: relative;
+	left: 660px;
+	bottom: 105px;
+}
+div.contact{
+	font-size: 30px;
+	color: white;
+	font-family: "Roboto" sans-serif;
+	position: relative;
+	left: 1060px;
+	bottom: 225px;
+}
+div.podatok{
+	color: white;
+	font-family: 'Roboto' sans-serif;
+	position: relative;
+	left: 1060px;
+	bottom: 100px;
+}
