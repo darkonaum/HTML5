@@ -1,0 +1,374 @@
+div.top{
+	width: 1200px;
+	height: 590px;
+	background-color: #4b5964;
+}
+header{
+	font-family: 'Pacifico', cursive;
+	color: white;
+	position: relative;
+	top: 41px;
+	left: 111px;
+	font-size: 25px;
+}
+img.iphone{
+	position: relative;
+	left: 96px;
+	top: 96px;
+	
+}
+ /*listi*/
+ul.menu{
+	position: relative;
+	left: 653px;
+	bottom: 480px;
+	list-style-type: none;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: sans-serif;
+
+}
+button.home{
+	float: left;
+	font-size: 20px;
+	/*color: white;*/
+	border-radius: 30px;
+	background-color: #3e4850;
+	border-color: #3e4850;
+	box-shadow: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: sans-serif;
+	margin-right: 33px;
+	
+}
+li.about{
+	float: left;
+	margin-right: 50px;
+}
+li.work{
+	float: left;
+	margin-right: 50px;
+}
+li.contact{
+	float: left;
+}
+/*/**/         
+button.home a{
+	text-decoration: none;
+	color: #cccfd1;
+}
+li.about a{
+	text-decoration: none;
+	color: #cccfd1;
+}
+li.work a{
+	text-decoration: none;
+	color: #cccfd1;
+}
+li.contact a{
+	text-decoration: none;
+	color: #cccfd1;
+}
+/*/**/   
+/*end listi*/
+
+div.naslov{
+	position: relative;
+	left: 210px;
+	bottom: 340px;
+	color: #ffffff;
+	font-family: sans-serif;
+	font-size: 43px;
+	font-weight: bold;
+}
+div.podnaslov{
+	color: #b2b5b8;
+	font-size: 18px;
+	font-family: sans-serif;
+	position: relative;
+	left: 638px;
+	bottom: 316px;
+}
+div.text{
+	position: relative;
+	left: 638px;
+	bottom: 280px;
+	color: #a0a0a0;
+}
+button.quote{
+	width: 203px;
+	height: 44px;
+	border-radius: 20px;
+	border-color: #3f97d3;
+	background-color: #3f97d3;
+	color: white;
+	font-size: 15px;
+	position: relative;
+	left: 638px;
+	bottom: 224px;
+}
+button.quote a{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+}
+span.or{
+	color: #d7dadb;
+	position: relative;
+	left: 660px;
+	bottom: 224px;
+}
+div.see{
+	color: white;
+	position: relative;
+	left: 910px;
+	bottom: 258px;
+}
+div.see a{
+	text-decoration: none;
+	list-style: none;
+	color: white;
+}
+span.crta{
+	position: relative;
+	left: 910px;
+	bottom: 272px;
+	color: white;
+}
+/*2 section*/
+
+div.content{
+	width: 1200px;
+	height: 1463px;
+	background-color: #ffffff;
+	border: black solid;
+}
+
+img.projects{
+	position: relative;
+	top: 90px;
+	left: 178px;
+}
+
+ul.interfaces{
+	list-style-type: none;
+	color: #7a858d;
+	font-family: sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	position: relative;
+	top: 90px;
+}
+li.engaging{
+	float: left;
+	position: relative;
+	left: 90px;
+}
+li.usable{
+	float: left;
+	position: relative;
+	left: 303px;
+}
+li.solid{
+	float: left;
+	position: relative;
+	left: 478px;
+}
+
+
+ul.ipsum{
+	list-style-type: none;
+	position: relative;
+	top: 200px;
+	float: left;
+	color: #a4a4a4;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+li.prvo{
+	position: relative;
+	right: 470px;
+	bottom: 90px;
+}
+li.vtoro{
+	position: relative;
+	right: 110px;
+	bottom: 139px;
+}
+li.treto{
+	position: relative;
+	left: 220px;
+	bottom: 189px;
+}
+
+button.first{
+	width: 114px;
+	height: 39px;
+	background-color: #5299cf;
+	color: white;
+	border color: #5299cf;
+	border-radius: 7px;
+	position: relative;
+	top: 200px;
+	right: 680px;
+}
+button.second{
+	width: 114px;
+	height: 39px;
+	background-color: #5299cf;
+	color: white;
+	border color: #5299cf;
+	border-radius: 7px;
+	position: relative;
+	top: 202px;
+	right: 468px;
+}
+button.third{
+	width: 114px;
+	height: 39px;
+	background-color: #5299cf;
+	color: white;
+	border color: #5299cf;
+	border-radius: 7px;
+	position: relative;
+	top: 162px;
+}
+
+div.search{
+	font-family: sans-serif;
+	font-size: 30px;
+	color: #4c5b66;
+	position: relative;
+	top: 313px;
+	right: 800px;
+}
+
+img.recent{
+	position: relative;
+	top: 300px;
+	left: 20px;
+}
+
+div.from{
+	position: relative;
+	top: 400px;
+	left: 90px;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: #4c5b66;
+}
+
+img.televizor{
+	position: relative;
+	top: 420px;
+	left: 90px;
+}
+
+div.our{
+	color: #5c5c5c;
+	font-family: sans-serif;
+	font-size: 25px;
+	position: relative;
+	top: 315px;
+	left: 300px;
+}
+div.magna{
+	list-style: none;
+	color: #b0b0b0;
+	font-family: sans-serif;
+	font-size: 12px;
+	position: relative;
+	top: 318px;
+	left: 300px;
+}
+div.brojki{
+	color: #c0c0c0;
+	position: relative;
+	top: 323px;
+	left: 300px;
+}
+
+/*///////////////////////////////*/
+
+div.who{
+	color: #5c5c5c;
+	font-family: sans-serif;
+	font-size: 25px;
+	position: relative;
+	top: 360px;
+	left: 300px;
+}
+img.facata{
+	position: relative;
+	top: 330px;
+	left: 130px;
+}
+div.non{
+	list-style: none;
+	color: #b0b0b0;
+	font-family: sans-serif;
+	font-size: 12px;
+	position: relative;
+	top: 260px;
+	left: 300px;
+}
+div.datum{
+	color: #c0c0c0;
+	position: relative;
+	top: 263px;
+	left: 300px;
+}
+
+/*[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]*/
+
+div.feed{
+	position: relative;
+	bottom: 20px;
+	left: 740px;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: #4c5b66;
+}
+
+ul.twerk{
+	list-style:none;
+	list-style-type: none;
+	position: relative;
+	left: 700px;
+	bottom: 26px;
+	font-family: sans-serif;
+	font-size: 15px;
+	color: #909090;
+
+}
+
+div.cristofer{
+	color: #8a8a8a;
+	position: relative;
+	left: 70px;
+	top: 40px;
+}
+
+
+img.mreza{
+	position: relative;
+	left: 1100px;
+	top: 10px;
+}
+img.in{
+	position: relative;
+	left: 1020px;
+	top: 10px;
+}
+img.twit{
+	position: relative;
+	left: 940px;
+	top: 10px;
+}
+img.fb{
+	position: relative;
+	left:860px;
+	top: 10px;
+}
