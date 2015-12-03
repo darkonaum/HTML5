@@ -1,0 +1,144 @@
+div.menu{
+	width: 100%;
+	height: 110px;
+	border: black solid;
+	overflow: auto;
+}
+img.resto{
+	padding-left: 200px;
+	padding-top: 40px;
+}
+ul.header a{
+	list-style: none;
+	text-decoration: none;
+	list-style-type: none;
+	color: #3b3b3b; 
+}
+ul.header{
+	list-style-type: none;
+	font-family: 'Lora',serif;
+	margin-left: 708px;
+	position: relative;
+	bottom: 40px;
+}
+li.story{
+	float: left;
+	margin-right: 50px;
+}
+li.menu{
+	float: left;
+	margin-right: 50px;
+}
+li.reservation{
+	float: left;
+	margin-right: 50px;
+}
+li.news{
+	float: left;
+	margin-right: 50px;
+}
+li.rviews{
+	float: left;
+	margin-right: 50px;
+}
+/*//////////////*/
+img.wallper{
+	width: 100%;
+	height: 100%;
+}
+ /*TEKST 1 POCETOK */
+div.billboard{
+	width: 100%;
+	height: 800px;
+	border: black solid;
+}
+
+div.prvo{
+	color: #555555;
+	font-family: 'Lora',serif;
+	padding-left: 200px;
+	padding-top: 152px;
+}
+span.cheese{
+	color: #bcbcbc;
+}
+
+span.chicken{
+	color: #bcbcbc;
+}
+span.tuna{
+	color: #bcbcbc;
+}
+span.beef{
+	color: #bcbcbc;
+}
+
+
+div.prvo span.pedeset{
+	margin-left: 300px;
+}
+
+div.prvo span.sest{
+	margin-left: 316px;
+}
+
+div.prvo span.dva{
+	margin-left: 306px;
+}
+
+div.prvo span.tri{
+	margin-left: 323px;
+}
+
+/*TEKST 1 kraj */
+
+div.vtoro{
+	color: #555555;
+	font-family: 'Lora',serif;
+	padding-left: 770px;
+	position: relative;
+	bottom: 273px;
+}
+span.tuna{
+	color: #bcbcbc;
+}
+
+span.minced{
+	color: #bcbcbc;
+}
+span.tomato{
+	color: #bcbcbc;
+}
+span.onions{
+	color: #bcbcbc;
+}
+
+div.vtoro span.one{
+	margin-left: 300px;
+}
+
+div.vtoro span.two{
+	margin-left: 281px;
+}
+
+div.vtoro span.three{
+	margin-left: 312px;
+}
+
+div.vtoro span.four{
+	margin-left: 318px;
+}
+
+/*TEKST 2 KRAJ */
+/*//		
+
+
+
+	/*/
+/*CONTENT*/
+
+div.content{
+	width: 100%;
+	height: 1291px;
+	border: black solid;
+}
