@@ -1,0 +1,33 @@
+div.baner{
+	width: 380px;
+	height: 390px;
+	border-radius: 5px;
+}
+div.naslov{
+	float: left;
+	color: #c7df5e;
+	margin: 20px 130px 8px 20px;
+	font-weight: bold;
+	font-size: 15px;
+}
+div.podnaslov{
+	float: left;
+	color: #bebfba;
+	font-size: 12px;
+	margin: -10px 60px 0px 20px;
+	font-weight: bold;
+}
+span.pari{
+	float: left;
+	color: #a5a6a1;
+	margin: 20px 4px 30px -233px;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+button.booknow{
+	color: white;
+	border-color: #c8e060;
+	background-color: #c8e060;
+	border-radius: 5px;
+}

@@ -1,0 +1,227 @@
+body{
+	background-color: #e7e9e3;
+}
+
+/*start of emily*/
+section.emily{
+	width: 299px;
+	height: 260px;
+	background-color: white;
+}
+    /*1*/
+ul.ema{
+	list-style-type: none;
+	color: #bebfba;
+}
+
+li.followers{
+	float: left;
+	margin: 5px 35px 5px -20px;
+}
+li.following{
+	float: left;
+	margin: 5px 35px 5px 0px;
+}
+li.tweets{
+	float: left;
+	margin: 5px 0px 5px 0px;
+}
+		/*2*/
+ul.numbers{
+	list-style-type: none;
+	color: #a5a6a1;
+	font-weight: bold;
+}
+li.iljada{
+	float: left;
+	margin: 0px 40px 0px -7px;
+}
+li.dveiljadi{
+	float: left;
+	margin: 0px 40px 0px 24px;
+}
+li.dvesta{
+	float: left;
+	margin: 0px 0px 0px 23px;
+}
+
+/*start of tower*/
+
+section.tower{
+	width: 180px;
+	height: 489px;
+	position: relative;
+	left: 320px;
+	bottom: 255px;
+	background-color: white;
+}
+header.eden{
+	position: relative;
+	top: 25px;
+	left: 20px;
+	color: #1a1a1a;
+	font-family: sans-serif;
+}
+header.dva{
+	position: relative;
+	top: 26px;
+	left: 20px;
+	color: #1a1a1a;
+	font-family: sans-serif;
+}
+div.destination{
+	position: relative;
+	top: 28px;
+	left: 20px;
+	font-size: 15px;
+	color: #808080;
+	font-family: sans-serif;
+}
+div.for{
+	position: relative;
+	top: 29px;
+	left: 20px;
+	font-size: 15px;
+	color: #808080;
+	font-family: sans-serif;
+}
+/*start maps*/
+
+section.maps{
+	position: relative;
+	width: 540px;
+	height: 380px;
+	background-color: #0d0d0d;
+	left: 520px;
+	bottom: 743px;
+}
+img.minus{
+	width: 50px;
+	height: 50px;
+	position: relative;
+	top: 30px;
+	left: 30px;
+}
+img.plus{
+	width: 50px;
+	height: 50px;
+	position: relative;
+	top: 30px;
+	left: 40px;
+}
+div.west{
+	color: white;
+	position: relative;
+	left: 390px;
+	font-size: 21px;
+	bottom: 40px;
+}
+div.odgen{
+	color: #808080;
+	position: relative;
+	left: 390px;
+	bottom: 35px;
+}
+/*start of stories of ocean*/
+
+section.ocean{
+	width: 301px;
+	height: 441px;
+	background-color: white;
+	position: relative;
+	bottom: 650px;
+}
+div.okean{
+	font-weight: bold;
+	font-family: sans-serif;
+	position: relative;
+	left: 30px;
+	top: 30px;
+	color: #202020;
+}
+div.follow{
+	font-size: 12px;
+	position: relative;
+	left: 30px;
+	top: 31.2px;
+	font-family: sans-serif;
+	color: #262626;
+}
+button.foll{
+	position: relative;
+	left: 30px;
+	top: 70px;
+	width: 120px;
+	height: 40px;
+	font-size: 20px;
+	color:white;
+	background-color: #1a1a1a;
+	border-color: #1a1a1a;
+}
+/*start section adriatic*/
+
+section.adriatic{
+	width: 	383px;
+	height: 442px;
+	background-color: #cf1939;
+	position: relative;
+	bottom: 1100px;
+	left: 530px;
+}
+header.adriatic{
+	color: white;
+	font-size: 26px;
+	font-family: sans-serif;
+	font-weight: bolder;
+	position: relative;
+	left: 35px;
+	top: 40px;
+}
+div.event{
+	color: white;
+	position: relative;
+	font-family: sans-serif;
+	left: 35px;
+	top: 41px;
+}
+div.lorem{
+	color: white;
+	position: relative;
+	left: 35px;
+	top: 80px;
+}
+img.dugme{
+	position: relative;
+	left: 35px;
+	top: 210px;
+}
+/*start googlemaps*/
+
+section.googlemaps{
+	width: 301px;
+	height: 341px;
+	background-color: white;
+	position: relative;
+	bottom: 1000px;
+}
+div.canyon{
+	color: #434a54;
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 18px;
+	position: relative;
+	left: 20px;
+	top: 15px;
+}
+div.koloni{
+	color: #aab2be;
+	position: relative;
+	left: 20px;
+	top: 20px;
+}
+img.lokacija{
+	width: 20px;
+	height: 20px;
+	position: relative;
+	bottom: 40px;
+}

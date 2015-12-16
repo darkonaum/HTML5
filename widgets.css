@@ -1,0 +1,262 @@
+section.meni{
+	width: 1381px;
+	height: 91px;
+	background-color: #343f6a;
+}
+ul.search{
+	color: #acc2da;
+	font-size: 20px;
+}
+li.home{
+	list-style-type: none;
+	position: relative;
+	left: 200px;
+	top: 33px;
+}
+li.flights{
+	list-style-type: none;
+	position: relative;
+	left: 320px;
+	top: 9px;
+}	
+li.food{
+	list-style-type: none;
+	position: relative;
+	left: 445px;
+	bottom: 14px;
+}
+li.trips{
+	color: white;
+	position: relative;
+	left: 560px;
+	bottom: 38px;
+}
+li.book{
+	list-style-type: none;
+	position: relative;
+	left: 670px;
+	bottom: 60px;
+}
+li.lupa{
+	list-style-type: none;
+	position: relative;
+	left: 1011px;
+	bottom: 83px;
+}
+/*2*/
+div.prvo{
+	width: 141px;
+	height: 60px;
+	background-color: #b32d3a;
+	color: white;
+	position: relative;
+	top: 10px; 
+	font-size: 13px;
+}
+div.b{
+	position: relative;
+	left: 80px;
+	top: 40px; 
+}
+div.vtoro{
+	width: 141px;
+	height: 60px;
+	background-color: black;
+	color: white;
+	position: relative;
+	left: 150px; 
+	bottom: 50px;
+	font-size: 13px;
+}
+div.v{
+	position: relative;
+	left: 80px;
+	top: 40px; 
+}
+/*3*/
+div.crven{
+	width: 77px;
+	height: 7px;
+	background-color: #fc6e51;
+	border-radius: 2px;
+}
+div.zelen{
+	width: 77px;
+	height: 7px;
+	background-color: #a0d468;
+	border-radius: 2px;
+	position: relative;
+	left: 76px;
+	bottom: 7px;
+}
+div.sin{
+	width: 77px;
+	height: 7px;
+	background-color: #4fc0e9;
+	border-radius: 2px;
+	position: relative;
+	left: 152px;
+	bottom: 14px;
+}
+div.lilav{
+	width: 77px;
+	height: 7px;
+	background-color: #ac92ec;
+	border-radius: 2px;
+	position: relative;
+	left: 228px;
+	bottom: 21px;
+}
+header{
+	position: relative;
+	left: 18px;
+	top: 20px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #434a54;
+}
+div.email{
+	position: relative;
+	left: 18px;
+	top: 40px;
+	font-family: sans-serif;
+	color: #434a54;
+	font-size: 17px;
+}
+button.john{
+	color: #bdc3cb;
+	border-color: #bdc3cb;
+	background-color: white;
+	position: relative;
+	left: 18px;
+	top: 45px;
+	width: 261px;
+	height: 37px;
+	text-align: left;
+}
+div.subject{
+	color: #434a54;
+	position: relative;
+	left: 18px;
+	top: 70px;
+	font-size: 17px;
+	font-family: sans-serif;
+}
+button.offer{
+	color: #bdc3cb;
+	border-color: #bdc3cb;
+	background-color: white;
+	position: relative;
+	left: 18px;
+	top: 75px;
+	width: 261px;
+	height: 37px;
+	text-align: left;
+}
+div.message{
+	color: #434a54;
+	position: relative;
+	left: 18px;
+	top: 90px;
+	font-size: 17px;
+	font-family: sans-serif;
+}
+button.hello{
+	position: relative;
+	left: 18px;
+	top: 95px;
+	width: 262px;
+	height: 116px;
+	text-align: left;
+	color: #bdc3cb;
+	border-color: #bdc3cb;
+	background-color: white;
+}
+button.send{
+	width: 111px;
+	height: 41px;
+	background-color: #a0d468;
+	border-color: #a0d468;
+	color: white;
+	position: relative;
+	top: 240px;
+	right: 100px;
+	border-radius: 9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

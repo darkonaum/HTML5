@@ -1,0 +1,26 @@
+section.splash{
+	width: 380px;
+	height: 440px;
+	background-color: #cf1939;
+}
+
+h1.naslov{
+	margin: 10px 98px 5px 40px;
+	color: white;
+	font-size: 20px;
+	padding: 15px;
+}
+
+div.podnaslov{
+	color: white;
+	margin: -17px 190px 44px 55px;
+}
+
+div.text{
+	color: white;
+	margin: 0px 130px 150px 55px;
+}
+
+img{
+	margin: 0px 316px 38px 45px;
+}
